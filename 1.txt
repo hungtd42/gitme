@@ -3,5 +3,3 @@ day la master
 day la hung a
 
 day la hung b
-
-day la hung c
